@@ -1,11 +1,4 @@
 {
-  "name": "sunscreen",
-  "displayName": "Sunscreen Theme",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
-  },
   "categories": [
     "Themes"
   ],
@@ -13,9 +6,19 @@
     "themes": [
       {
         "label": "Sunscreen Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bucket-sunscreen-color-theme.json"
+        "path": "./themes/bucket-sunscreen-color-theme.json",
+        "uiTheme": "vs-dark"
       }
     ]
-  }
+  },
+  "description": "",
+  "displayName": "Sunscreen Theme",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "name": "sunscreen",
+  "repository": {
+    "url": "https://github.com/bucketco/sunscreen-theme"
+  },
+  "version": "0.0.1"
 }
