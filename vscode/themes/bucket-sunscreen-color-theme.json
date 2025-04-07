@@ -46,7 +46,7 @@
     "editorHoverWidget.foreground": "#E9E9ED", // Hover tooltip text
     "editorLineNumber.activeForeground": "#E9E9ED", // Active line number color
     "editorLineNumber.foreground": "#32333B", // Line number color
-    "editorWarning.foreground": "#477F94", // Warning squiggles color
+    "editorWarning.foreground": "#F9C295", // Warning squiggles color
     "focusBorder": "#FFFFFF16", // Focus border color
     "gitDecoration.conflictingResourceForeground": "#DD6B6B", // Conflicting changes color
     "gitDecoration.deletedResourceForeground": "#DD6B6B", // Deleted files color
@@ -63,7 +63,7 @@
     "list.highlightForeground": "#FFF", // Search match highlight
     "list.hoverBackground": "#FFFFFF08", // Hover background
     "list.inactiveSelectionBackground": "#1E1F24", // Inactive selection background
-    "list.warningForeground": "#477F94", // Warning item text
+    "list.warningForeground": "#F9C295", // Warning item text
     "pickerGroup.foreground": "#C1C1C1", // Group label text
     // Quick input/Command palette
     "quickInput.background": "#2C2C31", // Quick input background
@@ -78,7 +78,9 @@
     "settings.modifiedItemIndicator": "#77ADC1", // Modified setting indicator
     // Sidebar and activity bar
     "sideBar.background": "#101114", // Sidebar background
-    "sideBar.foreground": "#C1C1C195", // Sidebar text color
+    "sideBar.foreground": "#D8D9DF", // Sidebar text color
+    "sideBarStickyScroll.border": "#191A1F",
+    "sideBarStickyScroll.shadow": "#191A1F",
     "sideBarSectionHeader.background": "#101114", // Section header background
     "sideBarSectionHeader.foreground": "#787C91", // Section header text
     "sideBarTitle.foreground": "#787C91", // Sidebar title color
