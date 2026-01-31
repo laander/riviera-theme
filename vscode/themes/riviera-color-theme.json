@@ -79,6 +79,7 @@
     // Sidebar and activity bar
     "sideBar.background": "#101114", // Sidebar background
     "sideBar.foreground": "#D8D9DF", // Sidebar text color
+    "sideBar.border": "#191A1F", // Sidebar border
     "sideBarStickyScroll.border": "#191A1F",
     "sideBarStickyScroll.shadow": "#191A1F",
     "sideBarSectionHeader.background": "#101114", // Section header background
@@ -110,7 +111,26 @@
     "minimap.errorHighlight": "#dd6b6b7e", // Minimap error highlight
     "minimap.selectionHighlight": "#77adc17a",
     "minimap.findMatchHighlight": "#77adc17a",
-    "minimap.chatEditHighlight": "#77adc17a"
+    "minimap.chatEditHighlight": "#77adc17a",
+    // Terminal
+    "terminal.background": "#101114",
+    "terminal.foreground": "#E9E9ED",
+    "terminal.ansiBlack":   "#454658",
+    "terminal.ansiRed":     "#fbd9b2",
+    "terminal.ansiGreen":   "#fbd9b2",
+    "terminal.ansiYellow":  "#fbd9b2",
+    "terminal.ansiBlue":    "#9cc4d3",
+    "terminal.ansiMagenta": "#ecc3e4",
+    "terminal.ansiCyan":    "#9cc4d3",
+    "terminal.ansiWhite":   "#e5e5e5",
+    "terminal.ansiBrightBlack":   "#454658",
+    "terminal.ansiBrightRed":     "#fbd9b2",
+    "terminal.ansiBrightGreen":   "#fbd9b2",
+    "terminal.ansiBrightYellow":  "#fbd9b2",
+    "terminal.ansiBrightBlue":    "#9cc4d3",
+    "terminal.ansiBrightMagenta": "#ecc3e4",
+    "terminal.ansiBrightCyan":    "#9cc4d3",
+    "terminal.ansiBrightWhite":   "#ffffff"
   },
   "tokenColors": [
     {

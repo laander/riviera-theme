@@ -5,7 +5,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Riviera Theme",
+        "label": "Riviera theme",
         "path": "./themes/riviera-color-theme.json",
         "uiTheme": "vs-dark"
       }
@@ -15,7 +15,7 @@
   "devDependencies": {
     "@vscode/vsce": "^3.3.2"
   },
-  "displayName": "Riviera Theme",
+  "displayName": "Riviera theme",
   "engines": {
     "vscode": "^1.96.0"
   },
