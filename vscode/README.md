@@ -1,7 +1,9 @@
-# Sunscreen Theme
+# riviera theme
 
-A delighful VS Code color theme by Bucket
+shore meets source.
+a delightful dark pastel color theme,
+by [laander](https://laander.com)
 
-- Dark
-- Muted pastel colors
-- Limited color tokens
+## development
+
+`npx @vscode/vsce package`

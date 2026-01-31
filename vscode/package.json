@@ -5,20 +5,23 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sunscreen Theme",
-        "path": "./themes/bucket-sunscreen-color-theme.json",
+        "label": "Riviera Theme",
+        "path": "./themes/riviera-color-theme.json",
         "uiTheme": "vs-dark"
       }
     ]
   },
   "description": "",
-  "displayName": "Sunscreen Theme",
+  "devDependencies": {
+    "@vscode/vsce": "^3.3.2"
+  },
+  "displayName": "Riviera Theme",
   "engines": {
     "vscode": "^1.96.0"
   },
-  "name": "sunscreen",
+  "name": "riviera",
   "repository": {
-    "url": "https://github.com/bucketco/sunscreen-theme"
+    "url": "https://github.com/laander/riviera-theme"
   },
-  "version": "0.0.2"
+  "version": "0.0.1"
 }

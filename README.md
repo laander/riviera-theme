@@ -1,5 +1,9 @@
-# Sunscreen Theme
+# riviera theme
 
-A delighful color theme by [Bucket](https://bucket.co)
+shore meets source.
+a delightful dark pastel color theme,
+by [laander](https://laander.com)
 
-- [For VSCode](/vscode/)
+for:
+- [VSCode/Cursor](/vscode/)
+- [iTerm2](/iterm2/)
