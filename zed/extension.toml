@@ -1,0 +1,7 @@
+id = "riviera-theme"
+name = "Riviera"
+version = "0.0.1"
+schema_version = 1
+authors = ["laander"]
+description = "A two-tone pastel dark theme with azure and sand accents"
+repository = "https://github.com/laander/riviera-theme"

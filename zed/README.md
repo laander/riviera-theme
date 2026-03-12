@@ -1,15 +1,20 @@
 # Riviera theme for Zed
 
-A two-tone pastel color theme for the [Zed editor](https://zed.dev).
+A two-tone pastel dark theme with azure and sand accents for the [Zed editor](https://zed.dev).
 
 ## Installation
 
+### From the Extension Store
+
+1. Open Zed and go to **Extensions** (`Cmd+Shift+X` on macOS)
+2. Search for "Riviera"
+3. Click **Install**
+
 ### Manual installation
 
-1. Copy `riviera.json` to your Zed themes directory:
+1. Copy `themes/riviera.json` to your Zed themes directory:
 
    - **macOS/Linux**: `~/.config/zed/themes/`
-   - **Windows**: `%USERPROFILE%\AppData\Roaming\Zed\themes\`
 
 2. Open Zed settings (`Cmd+,` on macOS or `Ctrl+,` on Linux/Windows)
 
