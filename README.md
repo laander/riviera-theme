@@ -4,8 +4,7 @@
 
 # Riviera theme
 
-A two-tone pastel color theme,  
-by [laander](https://laander.com)
+A two-tone pastel color theme
 
 - [VSCode/Cursor](/vscode/)
 - [Zed](/zed/)
