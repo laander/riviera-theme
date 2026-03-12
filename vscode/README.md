@@ -1,6 +1,6 @@
 # Riviera theme for VS Code / Cursor
 
-A delightful dark pastel color theme for [VS Code](https://code.visualstudio.com) and [Cursor](https://cursor.com).
+A two-tone pastel color theme for [VS Code](https://code.visualstudio.com) and [Cursor](https://cursor.com).
 
 ## Installation
 
@@ -15,6 +15,7 @@ A delightful dark pastel color theme for [VS Code](https://code.visualstudio.com
 ### Manual installation
 
 1. Copy the `riviera` folder to your extensions directory:
+
    - **macOS**: `~/.vscode/extensions/`
    - **Linux**: `~/.vscode/extensions/`
    - **Windows**: `%USERPROFILE%\.vscode\extensions\`

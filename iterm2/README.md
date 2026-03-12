@@ -1,6 +1,6 @@
 # Riviera theme for iTerm2
 
-A delightful dark pastel color theme for [iTerm2](https://iterm2.com).
+A two-tone pastel color theme for [iTerm2](https://iterm2.com).
 
 ## Installation
 
