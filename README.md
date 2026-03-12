@@ -5,6 +5,7 @@ A delightful dark pastel color theme,
 by [laander](https://laander.com)
 
 - [VSCode/Cursor](/vscode/)
+- [Zed](/zed/)
 - [iTerm2](/iterm2/)
 
 ## Color palette
