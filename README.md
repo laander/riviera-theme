@@ -1,6 +1,10 @@
+<p style="text-align: center">
+    <img src="icon.png" width="100" height="100" />
+</p>
+
 # Riviera theme
 
-A two-tone pastel color theme,
+A two-tone pastel color theme,  
 by [laander](https://laander.com)
 
 - [VSCode/Cursor](/vscode/)
@@ -9,32 +13,29 @@ by [laander](https://laander.com)
 
 ## Color palette
 
-#E9E9ED - Off-white - main editor text, variables, punctuation
+`#e9e9ed` - Off-white - main editor text, variables, punctuation
 
-#8F92A3 - Gray - keywords, storage, operators
-#505362 - Dark gray - comments, markdown quotes
+`#8f92a3` - Gray - keywords, storage, operators  
+`#505362` - Dark gray - comments, markdown quotes
 
-#09090B - Black - activity bar, badge foreground
-#101114 - Near-black - editor, sidebar, tabs, statusbar
+`#09090b` - Black - activity bar, badge foreground  
+`#101114` - Near-black - editor, sidebar, tabs, statusbar
 
-#77ADC1 - Azure - strings, constants, badges, links
-#9CC4D3 - Light azure - button hover, badges
+`#77adc1` - Azure - strings, constants, badges, links  
+`#9cc4d3` - Light azure - button hover, badges
 
-#F9C295 - Sand - function names, warnings, decorators
-#FAD0AD - Light sand - logical/bitwise operators, CSS operators
+`#f9c295` - Sand - function names, warnings, decorators  
+`#fad0ad` - Light sand - logical/bitwise operators, CSS operators
 
-#DD6B6B - Red - errors/deletions
+`#dd6b6b` - Red - errors/deletions
 
 ### Terminal ANSI colors
 
-Black: #454658 / #585a6e
-Red: #fbd9b2
-Green: #fbd9b2
-Yellow: #fbd9b2
-Blue: #9cc4d3
-Magenta: #ecc3e4
-Cyan: #9cc4d3
-White: #E9E9ED
-
-Search results: #f8be7d
-Selection: #2c2d35 / #ced5f1
+`#454658` / `#585a6e` - Black  
+`#fbd9b2` - Red  
+`#fbd9b2` - Green  
+`#fbd9b2` - Yellow  
+`#9cc4d3` - Blue  
+`#ecc3e4` - Magenta  
+`#9cc4d3` - Cyan  
+`#e9e9ed` - White

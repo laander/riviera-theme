@@ -1,4 +1,14 @@
 {
+  "name": "riviera",
+  "displayName": "Riviera theme",
+  "description": "A two-tone pastel color theme with azure and sand accents on a dark background.",
+  "version": "0.0.2",
+  "publisher": "laander",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
   "categories": [
     "Themes"
   ],
@@ -11,17 +21,20 @@
       }
     ]
   },
-  "description": "",
-  "devDependencies": {
-    "@vscode/vsce": "^3.3.2"
-  },
-  "displayName": "Riviera theme",
-  "engines": {
-    "vscode": "^1.96.0"
-  },
-  "name": "riviera",
   "repository": {
+    "type": "git",
     "url": "https://github.com/laander/riviera-theme"
   },
-  "version": "0.0.1"
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "pastel"
+  ],
+  "scripts": {
+    "package": "source ~/.nvm/nvm.sh && nvm use 22 && vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.1"
+  }
 }
